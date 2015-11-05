@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grackle", "Grackle\Grackle.csproj", "{937B33FB-0BC2-4902-85A1-628A594D2E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrackleGameBackendTests", "GrackleGameBackendTests\GrackleGameBackendTests.csproj", "{71E7262D-5815-4435-88A2-C797ADE0B0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrackleLogic", "GrackleLogic\GrackleLogic.csproj", "{EDF4AB8A-B80E-43F7-BF3B-8900B4EB193B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937B33FB-0BC2-4902-85A1-628A594D2E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937B33FB-0BC2-4902-85A1-628A594D2E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937B33FB-0BC2-4902-85A1-628A594D2E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937B33FB-0BC2-4902-85A1-628A594D2E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E7262D-5815-4435-88A2-C797ADE0B0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E7262D-5815-4435-88A2-C797ADE0B0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E7262D-5815-4435-88A2-C797ADE0B0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E7262D-5815-4435-88A2-C797ADE0B0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF4AB8A-B80E-43F7-BF3B-8900B4EB193B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF4AB8A-B80E-43F7-BF3B-8900B4EB193B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF4AB8A-B80E-43F7-BF3B-8900B4EB193B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF4AB8A-B80E-43F7-BF3B-8900B4EB193B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
